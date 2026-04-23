@@ -25,3 +25,4 @@ steps:
 options:
  logging: CLOUD_LOGGING_ONLY
  
+ #europe-west1-docker.pkg.dev/qwiklabs-gcp-02-458300397946/my-repository/hello-cloudbuild:v1.0
